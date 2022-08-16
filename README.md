@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodri</h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+<h3 align="center">A passionate full stack developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodri0112&label=Profile%20views&color=0e75b6&style=flat" alt="rodri0112" /> </p>
 
