@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodri0112&label=Profile%20views&color=0e75b6&style=flat" alt="rodri0112" /> </p>
 
-- 🔭 I worked on [Ebook-store App](https://e-commerce-book-store.vercel.app)
+- 🔭 I worked on [E-BookStore App](https://e-commerce-book-store.vercel.app)
 
 - 🔭 I worked on [Food PI](https://github.com/rodri0112/Food-PI)
 
