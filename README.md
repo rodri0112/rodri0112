@@ -3,11 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodri0112&label=Profile%20views&color=0e75b6&style=flat" alt="rodri0112" /> </p>
 
+- 🔭 I worked on [Ebook-store App](https://e-commerce-book-store.vercel.app)
+
+- 🔭 I worked on [Dogs App](https://github.com/rodri0112/Food-PI)
+
+- 🌱 I’m currently learning **TypeScript | Angular | GO**
+
+- 💬 Ask me about **Python | JavaScript | React | PostgresSQL | Sequalize | Redux**
+
 - 📫 How to reach me **rosoria010398@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rodrigo soriano acosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo soriano acosta" height="30" width="40" /></a>
+<a href="https://instagram.com/rodri.soria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodri.soria" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
