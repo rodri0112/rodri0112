@@ -5,7 +5,7 @@
 
 - 🔭 I worked on [Ebook-store App](https://e-commerce-book-store.vercel.app)
 
-- 🔭 I worked on [Dogs App](https://github.com/rodri0112/Food-PI)
+- 🔭 I worked on [Food PI](https://github.com/rodri0112/Food-PI)
 
 - 🌱 I’m currently learning **TypeScript | Angular | GO**
 
