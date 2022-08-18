@@ -3,9 +3,52 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodri0112&label=Profile%20views&color=0e75b6&style=flat" alt="rodri0112" /> </p>
 
-- 🔭 I worked on [E-BookStore App](https://e-commerce-book-store.vercel.app)
+- 🔭 I worked together with a team of eight people to design and develop an e-commerce web application with the primary goal of selling e-books online.
 
-- 🔭 I worked on [Food PI](https://github.com/rodri0112/Food-PI)
+My contribution to the project was mostly to the frontend, since I developed many of the components, applying state management, react lifecycle, redux and hooks to give them functionality.
+
+Characteristic
+  * Sign in to Google
+  * Dark / light mode
+  * Colorblind included
+  * Password recovery
+  * SPA (single web application)
+  * Shopping cart
+  * User CRUD
+  * Wish List / Favorite Books
+  * Live Chat
+  * Filters (genres, price, discounts) and orders (More/less reviewed books)
+  * Comments section
+  * Latest Releases
+  * Payment section with Stripe API
+  * Top ranked books
+  * Newsletter subscription
+  * Administration panel
+  * Publish books
+  * Assign administrators
+ [E-BookStore App](https://e-commerce-book-store.vercel.app)
+
+- 🔭 I worked on Food PI. The project consisted of the development of a SPA (Single Page Application), which had to make calls to an API (Spoonacular API) and queries to the database.
+
+The project consists of the following characteristics
+* Paginated: Displays 9 recipes per page.
+* Filters by type of diets.
+* Ascending and descending sorting by name.
+* Sorting ascending and descending by health score.
+* Routes with the details of each recipe.
+* Search for recipes on the page.
+* Controlled form for the creation of new recipes in the database.
+* Responsive site (desktop/mobile)
+* Test on back.
+
+Technologies used:
+📌 Language: JavaScript.
+📌 Database: PostgreSQL.
+📌 Back-End: nodeJS, ExpressJS, Sequelize.
+📌 Front-End: React, Redux, pure CSS.
+📌 Version control: Git/GitHub.
+📌 Deploy: Heroku and Vercel
+[Food PI](https://github.com/rodri0112/Food-PI)
 
 - 🌱 I’m currently learning **TypeScript | Angular | GO**
 
