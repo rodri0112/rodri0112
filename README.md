@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodri</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h3 align="center">I am a Full Stack Web Developer with a PERN profile (PostgreSQL, Express, ReactJS, NodeJS). I enjoy participating in projects, where intelligence, teamwork and above all enthusiasm are essential. I am always looking for challenges that demand new knowledge and experiences. I am a Computer Science student in love with data structures, algorithms and problem solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodri0112&label=Profile%20views&color=0e75b6&style=flat" alt="rodri0112" /> </p>
 
